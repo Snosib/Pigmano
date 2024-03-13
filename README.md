@@ -1,0 +1,2 @@
+# Pigmano
+crash report
